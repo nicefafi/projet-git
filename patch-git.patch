@@ -1,0 +1,12 @@
+diff --git a/README.txt b/README.txt
+index e69de29..ed3dcec 100644
+--- a/README.txt
++++ b/README.txt
+@@ -0,0 +1 @@
++vbbbbbbbbbbbb
+diff --git a/log.tmp b/log.tmp
+index e69de29..e3a3728 100644
+--- a/log.tmp
++++ b/log.tmp
+@@ -0,0 +1 @@
++nnnnnnnnnn

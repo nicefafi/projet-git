@@ -1,0 +1,23 @@
+diff --git a/README.txt b/README.txt
+index e69de29..524ae0b 100644
+--- a/README.txt
++++ b/README.txt
+@@ -0,0 +1 @@
++pour m'utiliser tirer sur la langue
+diff --git a/index.php b/index.php
+index e69de29..0f4e803 100644
+--- a/index.php
++++ b/index.php
+@@ -0,0 +1,6 @@
++<?php
++
++print 'hello';
++
++
++?>
+diff --git a/log.tmp b/log.tmp
+index e69de29..0fca660 100644
+--- a/log.tmp
++++ b/log.tmp
+@@ -0,0 +1 @@
++bonjours je suis valenrise

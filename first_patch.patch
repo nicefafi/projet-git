@@ -1,0 +1,18 @@
+diff --git a/README.TXT b/README.TXT
+index 20736ef..84ba9a4 100644
+--- a/README.TXT
++++ b/README.TXT
+@@ -1,2 +1,3 @@
+ test patch
++nouvelle patch
+ nouvelle patch
+\ No newline at end of file
+diff --git a/test-branche.txt b/test-branche.txt
+index 20736ef..84ba9a4 100644
+--- a/test-branche.txt
++++ b/test-branche.txt
+@@ -1,2 +1,3 @@
+ test patch
++nouvelle patch
+ nouvelle patch
+\ No newline at end of file

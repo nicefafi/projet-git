@@ -1,0 +1,12 @@
+diff --git a/README.txt b/README.txt
+index e69de29..f0f89d2 100644
+--- a/README.txt
++++ b/README.txt
+@@ -0,0 +1 @@
++Patch correctif
+diff --git a/log.tmp b/log.tmp
+index e69de29..4d02cb7 100644
+--- a/log.tmp
++++ b/log.tmp
+@@ -0,0 +1 @@
++log patch

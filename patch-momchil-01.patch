@@ -1,0 +1,9 @@
+diff --git a/momchil/file-mo.txt b/momchil/file-mo.txt
+index 5e9cb83..b3a1261 100644
+--- a/momchil/file-mo.txt
++++ b/momchil/file-mo.txt
+@@ -1,2 +1,4 @@
+ Ici la premiere ligne du fichier MO.
+ .
++
++Modification du fichier pour creer un patch.

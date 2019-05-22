@@ -1,0 +1,18 @@
+diff --git a/bender.php b/bender.php
+index e69de29..fcfe0d8 100644
+--- a/bender.php
++++ b/bender.php
+@@ -0,0 +1,3 @@
++<?php
++
++echo "Hello Bender !!";
+\ No newline at end of file
+diff --git a/index.php b/index.php
+index e69de29..73bed04 100644
+--- a/index.php
++++ b/index.php
+@@ -0,0 +1,3 @@
++<?php
++
++echo "Hello World !";
+\ No newline at end of file
